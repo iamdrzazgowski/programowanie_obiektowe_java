@@ -4,4 +4,3 @@ public class Main {
         System.out.println("Dobrze robią");
     }
 }
-//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
