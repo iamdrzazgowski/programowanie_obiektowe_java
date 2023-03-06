@@ -9,7 +9,7 @@ public class Main {
         Point p2 = new Point(10,3);
         Segment segment = new Segment(p1, p2);
 
-        return String.format(Locale.ENGLISH, "<linse x1=\"\"....>", p1.x, p1.y);
+        //return String.format(Locale.ENGLISH, "<linse x1=\"\"....>", p1.x, p1.y);
 
 
         System.out.println(segment.getDistance());
